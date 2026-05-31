@@ -21,7 +21,6 @@ assignment/                      # Main Workspace Folder
     │   │   └── assetRoutes.js   # API Endpoint routes
     │   ├── utils/
     │   │   └── gateway.js       # Fabric Gateway Connection utility
-    │   ├── app.js               # Express application entrypoint
     │   ├── Dockerfile           # Docker configuration for containerization
     │   └── package.json         # API dependencies
     ├── api.md                   # API Specifications and Curl test scripts
